@@ -119,8 +119,7 @@ const GV_Footer: React.FC = () => {
           </div>
         </div>
       </div>
-    </footer>    </>
+    </footer>
   );
 };
-
 export default GV_Footer;
